@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.157 s <<< FAILURE! - in TestSuite
+paso2(com.tsoftlatam.automatizacion.test.extentReport_307.Test1Ejemplo)  Time elapsed: 0.125 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at com.tsoftlatam.automatizacion.test.extentReport_307.Test1Ejemplo.paso2(Test1Ejemplo.java:26)
+

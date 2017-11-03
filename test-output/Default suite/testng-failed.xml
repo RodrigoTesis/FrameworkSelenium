@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.tsoftlatam.automatizacion.test.extentReport_2412.Test1Ejemplo">
+        <methods>
+          <include name="obtenerNombreDeLosMetodos"/>
+          <include name="afterMethod"/>
+          <include name="setup"/>
+          <include name="beforeSuite"/>
+          <include name="paso2"/>
+          <include name="tearDown"/>
+          <include name="paso1"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.tsoftlatam.automatizacion.test.extentReport_2412.Test1Ejemplo -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
